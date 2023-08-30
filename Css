@@ -1,0 +1,101 @@
+body{
+    background-image: url("e.png");
+    background-repeat: no-repeat;
+    content:initial;
+    background-size: 210%;
+    
+
+}
+#nc{
+
+height: 30px;
+
+}
+
+#f1{
+    
+    color: gold;
+    border: solid white;
+    width:max-content ;
+    border-radius: 30px;
+    background-color: black;
+}    
+#f1:hover {
+    color:azure;
+    cursor:pointer;
+    
+}
+    
+#f2{
+
+    color: white; 
+    background-color: black;
+    border-radius: 30px;
+    border: solid black;
+    width:fit-content;
+    margin: auto;
+    
+    
+}
+
+#m1{
+
+    width: 700px;
+    display: block;
+    margin: auto;
+    border: double black;
+
+}
+
+#m2{
+    width: 700px;
+    display: block;
+    margin: auto;
+    border: double black;
+}
+
+#f3 {
+    background-color: black;
+    color:white;
+    width: max-content;
+    border-radius: 30px;
+    margin: auto ;
+
+
+    
+    
+}
+#f4{
+    color: white;
+    border: solid white;
+    width:max-content ;
+    border-radius: 30px;
+    background-color: black;
+
+}
+
+#f5{
+    border: solid white;
+    color: white;
+    width:max-content ;
+    border-radius: 30px;
+    background-color: black;
+    width:fit-content;
+    margin: auto;
+    font-family:serif;
+}
+
+#p1{
+    font-size:large;
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style:normal;
+    
+
+}
+
+#d1{
+  border: solid black;
+  border-radius: 30px;
+  background-image: url("w.png");  
+}
